@@ -1,5 +1,4 @@
 # Credit_card_default_prediction
-# Credit Card Default Prediction
 
 This project is aimed at predicting credit card default using historical customer data. It explores a dataset of credit card transactions, performs data preprocessing, data visualization, and applies machine learning classification algorithms.
 
